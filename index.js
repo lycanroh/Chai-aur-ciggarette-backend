@@ -36,6 +36,11 @@ const githubData={
     "created_at": "2022-09-14T17:17:35Z",
     "updated_at": "2024-01-28T18:30:39Z"
 }
+//simple call up functions are 
+
+//Request is getting through server.
+
+
 app.get('/', (req, res) => {
    res.send('Hello World!')
 })
